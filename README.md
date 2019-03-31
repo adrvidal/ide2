@@ -15,3 +15,6 @@ Este proyecto pretende ser una plantilla maven para crear un proyecto
 1.- Desde IntelliJ, `Import Project`, marcar `Create Project from external model` y elegir `Maven`
 
 "Estamos simulando una modificación en este código"
+
+"Estamos simulando una modificación en este código2"
+
